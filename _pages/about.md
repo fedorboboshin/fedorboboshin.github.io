@@ -1,5 +1,5 @@
 ---
-layout: Main page
+layout: about
 title: Main page
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
