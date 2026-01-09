@@ -51,6 +51,45 @@ body a[href="#page-top"] {
 }
 
 
+
+
+
+
+/* Links 
+a {
+  color: #111111 !important;
+}
+
+a:hover {
+  color: #111111 !important;
+  text-decoration: underline;
+}*/
+
+/* Links */
+a {
+  color: #3a4f7a !important;
+}
+
+a:hover {
+  color: #3a4f7a !important;
+  text-decoration: underline;
+}
+
+/* Main content links */
+.page-content a,
+.post-content a {
+  color: #3a4f7a;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.page-content a:hover,
+.post-content a:hover {
+  color: #3a4f7a;
+}
+
+
 /* Navbar links */
 .navbar a,
 .navbar .nav-link {
@@ -67,32 +106,4 @@ body a[href="#page-top"] {
 .navbar .nav-link:hover {
   color: #111111 !important;
   border-color: #111111 !important;
-}
-
-
-
-
-
-/* Links 
-a {
-  color: #111111 !important;
-}
-
-a:hover {
-  color: #111111 !important;
-  text-decoration: underline;
-}*/
-
-/* Main content links */
-.page-content a,
-.post-content a {
-  color: #3a4f7a;
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
-}
-
-.page-content a:hover,
-.post-content a:hover {
-  color: #3a4f7a;
 }
