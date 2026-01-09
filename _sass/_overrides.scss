@@ -43,3 +43,27 @@ body a[href="#page-top"] {
   display: none !important;
 }
 
+/* Neutralize accent color (al-folio) */
+:root {
+  --global-theme-color: #111111;   /* almost black */
+  --global-hover-color: #111111;
+  --global-link-color: #111111;
+}
+
+/* Links */
+a {
+  color: #111111 !important;
+}
+
+a:hover {
+  color: #111111 !important;
+  text-decoration: underline;
+}
+
+/* Active navbar item underline / highlight */
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+  color: #111111 !important;
+  border-color: #111111 !important;
+}
+
