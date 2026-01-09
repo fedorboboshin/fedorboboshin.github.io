@@ -116,7 +116,7 @@ a:hover {
 .social-icons a,
 .profile-icons a,
 .contact-icons a {
-  font-size: 2rem;   /* try 0.85rem or 0.8rem if you want smaller */
+  font-size: 1.5rem;   /* try 0.85rem or 0.8rem if you want smaller */
   margin-right: 0.6rem;
 }
 
@@ -125,4 +125,20 @@ a:hover {
 .profile-icons img {
   width: 24px;
   height: 24px;
+}
+
+
+
+/* Remove numbering / left column in bibliography lists */
+.bibliography ol { 
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+.bibliography ol li {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+.bibliography .bibentry {
+  margin-left: 0 !important;
 }
