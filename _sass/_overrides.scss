@@ -67,3 +67,16 @@ a:hover {
   border-color: #111111 !important;
 }
 
+
+/* Subtle link emphasis in main text */
+a {
+  color: #1f2933;                 /* slightly darker than body text */
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  color: #000000;
+}
+
