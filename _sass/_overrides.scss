@@ -1,0 +1,14 @@
+/* Disable scroll progress indicator (al-folio / forks) */
+#progress,
+#progress-bar,
+.progress,
+.progress-bar,
+.progress-container,
+.reading-progress,
+.scroll-progress,
+.page-progress {
+  display: none !important;
+  height: 0 !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
