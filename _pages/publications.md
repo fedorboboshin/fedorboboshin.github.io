@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 ## Working Papers
-{% bibliography --file papers --query @*[keywords~=working_paper] --sort_by year --order descending %}
+{% bibliography --file papers --query @*[keywords~=working_papers] --sort_by year --order descending %}
 
 
 
