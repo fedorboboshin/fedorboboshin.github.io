@@ -50,17 +50,6 @@ body a[href="#page-top"] {
   --global-link-color: #111111;
 }
 
-/* Links */
-a {
-  color: #3a4f7a !important;
-}
-
-
-a:hover {
-  color: #1f2f4a !important;
-  text-decoration: underline;
-}
-
 /* Active navbar item underline / highlight */
 .navbar .nav-link.active,
 .navbar .nav-link:hover {
