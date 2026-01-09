@@ -12,3 +12,15 @@
   opacity: 0 !important;
   pointer-events: none !important;
 }
+
+
+/* Disable back-to-top floating button */
+#back-to-top,
+.back-to-top,
+.scroll-top,
+.btn-scroll-top,
+a.back-to-top {
+  display: none !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
