@@ -15,12 +15,31 @@
 
 
 /* Disable back-to-top floating button */
+/* Back-to-top button (al-folio / forks) */
 #back-to-top,
+#back_to_top,
+#scroll-to-top,
+#scroll_to_top,
+a[aria-label="Back to top"],
+a[title="Back to top"],
+a[title="Back to Top"],
 .back-to-top,
-.scroll-top,
+.back_to_top,
+.scroll-to-top,
+.scroll_to_top,
+.btn-back-to-top,
 .btn-scroll-top,
-a.back-to-top {
+.scroll-top,
+.scroll_top {
   display: none !important;
+  visibility: hidden !important;
   opacity: 0 !important;
   pointer-events: none !important;
 }
+
+/* If it's a fixed round button in the bottom-right */
+body a[href="#top"],
+body a[href="#page-top"] {
+  display: none !important;
+}
+
