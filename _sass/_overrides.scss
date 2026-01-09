@@ -107,3 +107,22 @@ a:hover {
   color: #111111 !important;
   border-color: #111111 !important;
 }
+
+
+
+
+
+/* Make profile/social icons smaller */
+.social-icons a,
+.profile-icons a,
+.contact-icons a {
+  font-size: 0.9rem;   /* try 0.85rem or 0.8rem if you want smaller */
+  margin-right: 0.6rem;
+}
+
+/* If icons are images (like the Einstein photo) */
+.social-icons img,
+.profile-icons img {
+  width: 24px;
+  height: 24px;
+}
