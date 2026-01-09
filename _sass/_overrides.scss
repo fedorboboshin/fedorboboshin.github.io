@@ -50,37 +50,19 @@ body a[href="#page-top"] {
   --global-link-color: #111111;
 }
 
+/* Links */
+a {
+  color: #111111 !important;
+}
+
+a:hover {
+  color: #111111 !important;
+  text-decoration: underline;
+}
+
 /* Active navbar item underline / highlight */
 .navbar .nav-link.active,
 .navbar .nav-link:hover {
   color: #111111 !important;
   border-color: #111111 !important;
-}
-
-
-/* Navbar links */
-.navbar a,
-.navbar .nav-link {
-  color: #000000 !important;
-  font-weight: 400;
-  text-decoration: none;
-}
-
-.navbar .nav-link:hover {
-  color: #000000 !important;
-  text-decoration: underline;
-}
-
-/* Main content links */
-.page-content a,
-.post-content a {
-  color: #3a4f7a;
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
-}
-
-.page-content a:hover,
-.post-content a:hover {
-  color: #000000;
 }
