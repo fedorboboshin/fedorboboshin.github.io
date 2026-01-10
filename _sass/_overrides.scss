@@ -165,13 +165,15 @@ a:hover {
 }
 
 
-/* Prevent layout shift when the vertical scrollbar appears/disappears */
+/* Let scrollbar overlay content instead of shifting layout */
 html {
-  scrollbar-gutter: stable;
+  overflow-y: auto;
 }
 
-/* Always show vertical scrollbar so width never changes */
-html {
-  overflow-y: scroll;
+/* Modern browsers: no layout shift, no empty gutter */
+@supports (scrollbar-gutter: stable overlay) {
+  html {
+    scrollbar-gutter: stable overlay;
+  }
 }
 
