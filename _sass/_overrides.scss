@@ -170,3 +170,8 @@ html {
   scrollbar-gutter: stable;
 }
 
+/* Always show vertical scrollbar so width never changes */
+html {
+  overflow-y: scroll;
+}
+
