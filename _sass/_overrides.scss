@@ -203,7 +203,7 @@ main::after, main::before,
   background: #fff;
 }
 ::-webkit-scrollbar-thumb {
-  background: rgba(0,0,0,0.2);
+  background: transparent;
   border-radius: 10px;
 }
 
