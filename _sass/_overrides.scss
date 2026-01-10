@@ -200,7 +200,7 @@ main::after, main::before,
   width: 12px;
 }
 ::-webkit-scrollbar-track {
-  background: transparent;
+  background: #fff;
 }
 ::-webkit-scrollbar-thumb {
   background: rgba(0,0,0,0.2);
@@ -208,11 +208,29 @@ main::after, main::before,
 }
 
 
-/* Full-width horizontal rules */
-hr {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
+/* Full-width top separators (al-folio / bootstrap-ish headers) */
+.navbar,
+.navbar .container,
+.navbar .container-fluid,
+.site-header,
+.header,
+.page-header,
+.top-nav,
+nav {
+  border-left: 0 !important;
+  border-right: 0 !important;
+}
+
+/* If the line is a border-bottom on the navbar/header */
+.navbar,
+.site-header,
+.header,
+.page-header,
+nav {
+  width: 100vw !important;
+  margin-left: calc(50% - 50vw) !important;
+  margin-right: calc(50% - 50vw) !important;
+}
 }
 
 
