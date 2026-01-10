@@ -194,3 +194,17 @@ main::after, main::before,
   display: none !important;
 }
 
+
+/* Chromium/WebKit: make scrollbar track blend into background */
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.2);
+  border-radius: 10px;
+}
+
+
