@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".abstract-toggle").forEach(function(t){t.addEventListener("click",function(){const t=this.closest("li").querySelector(".bib-abstract");t&&(t.style.display="none"===t.style.display?"block":"none")})})});
