@@ -116,7 +116,7 @@ a:hover {
 .social-icons a,
 .profile-icons a,
 .contact-icons a {
-  font-size: 1.5rem;   /* try 0.85rem or 0.8rem if you want smaller */
+  font-size: 1.2rem;   /* try 0.85rem or 0.8rem if you want smaller */
   margin-right: 0.6rem;
 }
 
@@ -129,16 +129,19 @@ a:hover {
 
 
 
-/* Remove numbering / left column in bibliography lists */
-.bibliography ol { 
+/* Remove year headers in bibliography */
+.bibliography-year,
+.bib-year {
+  display: none !important;
+}
+
+/* Remove numbering (1., 2., …) */
+.bibliography ol,
+.bibliography li {
   list-style: none !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
 }
-.bibliography ol li {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
+
+.bibliography li::marker {
+  content: "" !important;
 }
-.bibliography .bibentry {
-  margin-left: 0 !important;
-}
+
