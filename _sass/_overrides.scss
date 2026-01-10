@@ -200,10 +200,10 @@ main::after, main::before,
   width: 12px;
 }
 ::-webkit-scrollbar-track {
-  background: #fff;
+  background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: transparent;
+  background: rgba(0,0,0,0.2);
   border-radius: 10px;
 }
 
