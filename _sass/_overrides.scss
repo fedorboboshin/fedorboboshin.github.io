@@ -145,3 +145,10 @@ a:hover {
   content: "" !important;
 }
 
+
+/* Catch alternative year headers */
+.bibliography h2,
+.bibliography h3 {
+  display: none !important;
+}
+
