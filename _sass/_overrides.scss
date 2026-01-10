@@ -164,3 +164,9 @@ a:hover {
   text-underline-offset: 3px;
 }
 
+
+/* Prevent layout shift when the vertical scrollbar appears/disappears */
+html {
+  scrollbar-gutter: stable;
+}
+
