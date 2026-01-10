@@ -167,6 +167,8 @@ a:hover {
 /* scrollbar */
 /* 1) Stop layout jump (reserve scrollbar space) */
 html { scrollbar-gutter: stable; }
+html { overflow-y: scroll; } /* safe fallback */
+
 
 /* 2) Make the reserved gutter visually disappear */
 html, body { background: #fff; }        /* match your page background */
