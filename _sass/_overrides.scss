@@ -152,3 +152,15 @@ a:hover {
   display: none !important;
 }
 
+
+/* Publications: title styling like your screenshot */
+.bibliography .title,
+.bibliography .bib-title,
+.bibliography .publication-title,
+.bibliography .entry-title {
+  font-style: italic !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
