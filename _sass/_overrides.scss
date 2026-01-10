@@ -164,16 +164,16 @@ a:hover {
   text-underline-offset: 3px;
 }
 
+/* scrollbar */
+/* 1) Stop layout jump (reserve scrollbar space) */
+html { scrollbar-gutter: stable; }
 
-/* Let scrollbar overlay content instead of shifting layout */
-html {
-  overflow-y: auto;
-}
+/* 2) Make the reserved gutter visually disappear */
+html, body { background: #fff; }        /* match your page background */
 
-/* Modern browsers: no layout shift, no empty gutter */
-@supports (scrollbar-gutter: stable overlay) {
-  html {
-    scrollbar-gutter: stable overlay;
-  }
+/* 3) Remove any right-edge border/shadow that makes the gutter look like a separate panel */
+.container, .container-fluid, main, .page-content {
+  box-shadow: none !important;
+  border-right: 0 !important;
 }
 
