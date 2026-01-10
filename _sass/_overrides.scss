@@ -170,12 +170,27 @@ html { scrollbar-gutter: stable; }
 html { overflow-y: scroll; } /* safe fallback */
 
 
-/* 2) Make the reserved gutter visually disappear */
-html, body { background: #fff; }        /* match your page background */
+/* Make the gutter visually disappear by matching backgrounds everywhere */
+html, body,
+.wrapper, .page, .page-content, main,
+.container, .container-fluid {
+  background: #fff !important;
+}
 
-/* 3) Remove any right-edge border/shadow that makes the gutter look like a separate panel */
-.container, .container-fluid, main, .page-content {
-  box-shadow: none !important;
+/* Kill any “panel edge” line */
+.wrapper, .page, .page-content, main,
+.container, .container-fluid,
+.content, .content-wrapper {
   border-right: 0 !important;
+  box-shadow: none !important;
+}
+
+/* If a pseudo-element draws the line */
+.wrapper::after, .wrapper::before,
+.page::after, .page::before,
+main::after, main::before,
+.container::after, .container::before {
+  content: none !important;
+  display: none !important;
 }
 
