@@ -282,3 +282,19 @@ body::before {
 }
 
 
+
+/* Remove all horizontal separator lines */
+hr {
+  display: none !important;
+}
+
+/* Remove header / navbar separator lines */
+nav,
+.navbar,
+.site-header,
+header {
+  border: none !important;
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+}
