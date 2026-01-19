@@ -298,3 +298,12 @@ header {
   border-bottom: 0 !important;
   box-shadow: none !important;
 }
+
+
+/* Remove footer separator line */
+footer,
+.footer,
+.site-footer {
+  border-top: none !important;
+  box-shadow: none !important;
+}

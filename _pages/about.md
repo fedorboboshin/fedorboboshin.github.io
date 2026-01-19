@@ -2,7 +2,7 @@
 layout: about
 title: Main page
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.unil.ch/hec/en/home.html'>HEC Lausanne, University of Lausanne</a>. 
 
 profile:
   align: right
@@ -26,6 +26,20 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+Hi! I am a third-year PhD student in Economics at the University of Lausanne.
+
+
+Hi! I am a third-year PhD student in Economics at the University of Lausanne. My supervisers are [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/) and [Jamila Nigmatulina](https://sites.google.com/view/dzhamilyanigmatulina/home).
+
+My research focuses on political economy, conflicts, AI.
+
+Prior to my doctoral studies, I earned an MA in Economics from the [New Economic School
+](https://www.nes.ru/?lang=en) and a BA in Physics from the [Lomonosov Moscow State University
+](https://msu.ru/en/).
+
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
