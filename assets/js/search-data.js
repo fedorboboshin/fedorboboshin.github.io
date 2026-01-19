@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-other",
           title: "Other",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/other/";
@@ -428,7 +428,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("", "_blank");
         },
       },{
         id: 'social-email',
