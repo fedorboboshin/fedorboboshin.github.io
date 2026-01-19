@@ -30,10 +30,10 @@ latest_posts:
 
 
 Hi! I am a third-year PhD student in Economics at the University of Lausanne. My research focuses on political economy, conflicts, AI.
-
+<br>
 
 I am supervised by [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/) and [Jamila Nigmatulina](https://sites.google.com/view/dzhamilyanigmatulina/home).
-
+<br>
 
 
 Prior to my doctoral studies, I earned an MA in Economics from the [New Economic School](https://www.nes.ru/?lang=en) and a BA in Physics from the [Lomonosov Moscow State University](https://msu.ru/en/).
