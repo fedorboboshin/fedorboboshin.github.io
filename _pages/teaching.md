@@ -7,10 +7,10 @@ nav: true
 nav_order: 2
 ---
 
-## Courses: Master's level
+#### Courses: Master's level
 
 ### HEC Lausanne
-- **Foundations of Econometrics and Machine Learning** (TA), MSc — Fall 2024, 2025  
+- **Foundations of Econometrics and Machine Learning** (TA), MA — Fall 2024, 2025  
   Instructor: Prof. [Rafael Lalive](https://sites.google.com/site/rafaellalive/)
 
 - **Environmental Economics** (TA), MA — Spring 2025  
@@ -23,7 +23,7 @@ nav_order: 2
   Instructor: Prof. [Martin Huber](https://www.unifr.ch/directory/en/people/7260/c8d1a)
 
 
-### New Economics School
+### New Economic School
 - **Natural Resource Economics** (TA), MA — Spring 2022, 2023 
  Instructor: Prof. [Gerhard Toews](https://sites.google.com/site/gerhardtoews/)
 

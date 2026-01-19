@@ -29,7 +29,9 @@ latest_posts:
 <br><br>
 
 <div class="about-section"></div>
-Hi! I am a third-year PhD student in Economics at the University of Lausanne. My research interests broadly are political economy, conflicts, AI.
+<div class="about-section"></div>
+Hi! 
+I am a third-year PhD student in Economics at the University of Lausanne. My research interests broadly are political economy, conflicts, AI.
 <div class="about-section"></div>
 
 

@@ -313,3 +313,11 @@ footer,
 .about-section {
   margin-bottom: 2rem;   /* adjust to taste */
 }
+
+
+/* Make full name uniform (no mixed bolding) */
+.site-title,
+.site-title span,
+.site-title strong {
+  font-weight: 400 !important; /* normal */
+}
