@@ -13,7 +13,7 @@ nav_order: 1
 
 
 
-##  Work in Progress ### (selected)
+##  Work in Progress <small>(selected)</small>
 {% bibliography --file work_in_progress --group_by none  %}
 
 

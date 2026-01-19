@@ -246,45 +246,27 @@ nav {
 
 
 
-/* --- Fix header separator "gap" on the right --- */
-
-/* Ensure header containers can go full-bleed */
-nav, .navbar, .site-header, header {
-  width: 100vw !important;
-  margin-left: calc(50% - 50vw) !important;
-  margin-right: calc(50% - 50vw) !important;
-  background: transparent !important;
-}
-
-/* If the line is drawn on an inner container, make it full width too */
-nav .container, nav .container-fluid,
-.navbar .container, .navbar .container-fluid,
-.site-header .container, .site-header .container-fluid,
-header .container, header .container-fluid {
-  width: 100vw !important;
-  max-width: 100vw !important;
-  margin-left: calc(50% - 50vw) !important;
-  margin-right: calc(50% - 50vw) !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  background: transparent !important;
-}
-
-/* Remove borders/shadows that might stop early */
-nav, .navbar, .site-header, header,
-nav .container, nav .container-fluid,
-.navbar .container, .navbar .container-fluid,
-.site-header .container, .site-header .container-fluid,
-header .container, header .container-fluid {
+/*  RemoveRemoveRemoveRemove whatever existing thin line is there */
+hr,
+.navbar,
+header,
+.site-header {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
   box-shadow: none !important;
 }
 
-/* If the line is a pseudo-element, remove it */
-nav::before, nav::after,
-.navbar::before, .navbar::after,
-.site-header::before, .site-header::after,
-header::before, header::after {
-  content: none !important;
-  display: none !important;
+/* Draw a full-width line across the viewport (no gap ever) */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;          /* covers the gutter too */
+  height: 1px;
+  background: #e5e5e5;
+  z-index: 9999;
+  pointer-events: none;
 }
+
 
