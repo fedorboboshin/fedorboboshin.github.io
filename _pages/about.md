@@ -29,7 +29,7 @@ latest_posts:
 <br><br>
 
 
-Hi! I am a third-year PhD student in Economics at the University of Lausanne. My research interests brodly are political economy, conflicts, AI.
+Hi! I am a third-year PhD student in Economics at the University of Lausanne. My research interests broadly are political economy, conflicts, AI.
 <div class="about-section"></div>
 
 
@@ -40,7 +40,6 @@ I am supervised by [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/) and
 Prior to my doctoral studies, I earned an MA in Economics from the [New Economic School](https://www.nes.ru/?lang=en) and a BA in Physics from the [Lomonosov Moscow State University](https://msu.ru/en/).
 <div class="about-section"></div>
 
-<br><br>
 
 [Here is my CV](http://fedorboboshin.github.io). 
 

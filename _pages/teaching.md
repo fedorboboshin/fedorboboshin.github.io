@@ -2,11 +2,30 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Courses: Masters
 
-Organize your courses by years, topics, or universities, however you like!
+### HEC Lausanne
+- **Foundations of Econometrics and Machine Learning** (TA), MSc — Fall 2024, 2025  
+  Instructor: Prof. [Rafael Lalive] (https://sites.google.com/site/rafaellalive/)
+
+- **Environmental Economics** (TA), MA — Spring 2025  
+  Instructor: Prof. [Sébastien Houde] (https://sebastien-houde.com/)
+
+- **Development Economics** (TA), MA — Fall 2023  
+  Instructor: Prof. [Jamila Nigmatulina] (https://sites.google.com/view/dzhamilyanigmatulina/home)
+
+- **Econometric Methods and Applications** (TA), MA — Fall 2023  
+  Instructor: Prof. [Martin Huber] (https://www.unifr.ch/directory/en/people/7260/c8d1a)
+
+
+### New Economics School
+- **Natural Resource Economics** (TA), MA — Spring 2022, 2023 
+ Instructor: Prof. [Gerhard Toews] (https://sites.google.com/site/gerhardtoews/)
+
+ - **Political Economy** (TA), MA — Fall 2021
+ Instructors: Prof. [Maria Petrova] (https://sites.google.com/site/mariapetrovaphd/home),Prof. [Ruben Enikolopov] (https://sites.google.com/site/rubenenikolopov/home)
