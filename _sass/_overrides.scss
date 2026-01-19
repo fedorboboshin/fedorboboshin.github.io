@@ -323,20 +323,17 @@ footer,
 }
 
 
-/* Make name uniform weight everywhere (navbar + profile header) */
-.site-title,
-.navbar-brand,
-.profile-name,
-.author__name,
-.p-name,
-h1, h2, h3 {
+/* Force uniform weight for name (kills Bootstrap bold helpers too) */
+.site-title *,
+.navbar-brand *,
+.profile-name * {
   font-weight: 400 !important;
 }
 
-.site-title strong, .site-title b,
-.navbar-brand strong, .navbar-brand b,
-.profile-name strong, .profile-name b,
-.author__name strong, .author__name b,
-.p-name strong, .p-name b {
+/* Bootstrap bold utility classes often used in al-folio */
+.font-weight-bold,
+.fw-bold,
+strong, b {
   font-weight: 400 !important;
 }
+
