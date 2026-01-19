@@ -164,6 +164,18 @@ a:hover {
   text-underline-offset: 3px;
 }
 
+/* Make <small> inside headings truly small and not bold */
+h1 small,
+h2 small,
+h3 small,
+h4 small {
+  font-size: 0.6em;        /* try 0.55em if you want even smaller */
+  font-weight: normal;
+  color: #666;
+}
+
+
+
 /* scrollbar */
 /* 1) Stop layout jump (reserve scrollbar space) */
 html { scrollbar-gutter: stable; }
