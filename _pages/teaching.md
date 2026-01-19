@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description:
+description: 
 nav: true
 nav_order: 2
 ---
 
-#### Courses: Master's level
+###### Master’s level cources
 
 ### HEC Lausanne
 - **Foundations of Econometrics and Machine Learning** (TA), MA — Fall 2024, 2025  
