@@ -6,7 +6,7 @@ subtitle: <a href='https://www.unil.ch/hec/en/home.html'>HEC Lausanne, Universit
 
 profile:
   align: right
-  image: OKP_7295-bw.jpg
+  image: OKP_7237-bw.jpg
   image_circular: false # crops the image to make it circular
   more_info: #
     # <p>Internef 556</p>
@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
+
 Hi! I am a third-year PhD student in Economics at the University of Lausanne. My research focuses on political economy, conflicts, AI.
 
 
@@ -34,9 +36,9 @@ I am supervised by [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/) and
 
 
 
-Prior to my doctoral studies, I earned an MA in Economics from the [New Economic School
-](https://www.nes.ru/?lang=en) and a BA in Physics from the [Lomonosov Moscow State University
-](https://msu.ru/en/).
+Prior to my doctoral studies, I earned an MA in Economics from the [New Economic School](https://www.nes.ru/?lang=en) and a BA in Physics from the [Lomonosov Moscow State University](https://msu.ru/en/).
+
+
 
 [Here is my CV](http://fedorboboshin.github.io). 
 
