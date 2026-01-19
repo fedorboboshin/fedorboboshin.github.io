@@ -6,12 +6,12 @@ subtitle: <a href='https://www.unil.ch/hec/en/home.html'>HEC Lausanne, Universit
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: OKP_7295-bw.jpg
   image_circular: false # crops the image to make it circular
   more_info: #
     # <p>Internef 556</p>
     # <p>Quartier de Chamberonne, CH-1015</p>
-    <p>Lausanne, Switzerland</p>
+    #<p>Lausanne, Switzerland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
