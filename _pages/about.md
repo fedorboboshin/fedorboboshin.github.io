@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Internef 556</p>
+    <p>Quartier de Chamberonne, CH-1015</p>
+    <p>Lausanne, Switzerland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,12 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a third-year PhD student in Economics at the University of Lausanne.
-
-
-Hi! I am a third-year PhD student in Economics at the University of Lausanne. My supervisers are [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/) and [Jamila Nigmatulina](https://sites.google.com/view/dzhamilyanigmatulina/home).
+Hi! I am a third-year PhD student in Economics at the University of Lausanne. [Here is my CV](http://fedorboboshin.github.io)
 
 My research focuses on political economy, conflicts, AI.
+
+
+I am supervised by [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/) and [Jamila Nigmatulina](https://sites.google.com/view/dzhamilyanigmatulina/home).
+
+
 
 Prior to my doctoral studies, I earned an MA in Economics from the [New Economic School
 ](https://www.nes.ru/?lang=en) and a BA in Physics from the [Lomonosov Moscow State University
