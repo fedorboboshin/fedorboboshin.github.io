@@ -2,7 +2,7 @@
 layout: about
 title: Main page
 permalink: /
-subtitle: <a href='https://www.unil.ch/hec/en/home.html'>HEC Lausanne, University of Lausanne</a>. 
+subtitle: <a href='https://www.unil.ch/hec/en/home.html'>HEC Lausanne, University of Lausanne</a> 
 
 profile:
   align: right
