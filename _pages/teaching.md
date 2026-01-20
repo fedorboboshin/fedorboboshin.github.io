@@ -24,8 +24,8 @@ nav_order: 2
 
 
 ### New Economic School
-- **Natural Resource Economics** (TA), MA — Spring 2022, 2023 
- Instructor: Prof. [Gerhard Toews](https://sites.google.com/site/gerhardtoews/)
+- **Natural Resource Economics** (TA), MA — Spring 2022, 2023  
+  Instructor: Prof. [Gerhard Toews](https://sites.google.com/site/gerhardtoews/)
 
- - **Political Economy** (TA), MA — Fall 2021
- Instructors: Prof. [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/home), Prof. [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/home)
+ - **Political Economy** (TA), MA — Fall 2021  
+  Instructors: Prof. [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/home), Prof. [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/home)
