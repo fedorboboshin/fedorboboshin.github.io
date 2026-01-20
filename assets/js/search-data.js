@@ -428,7 +428,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("/assets/pdf/fedorboboshinCV0126.pdf", "_blank");
         },
       },{
         id: 'social-email',
