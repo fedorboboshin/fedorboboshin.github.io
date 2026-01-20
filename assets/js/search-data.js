@@ -456,6 +456,6 @@ ninja.data = [{
         title: 'Strava',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.strava.com/athletes/71005777", "_blank");
+          window.open("https://www.strava.com/athletes/fboboshin", "_blank");
         },
       },];
