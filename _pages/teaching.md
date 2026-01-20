@@ -10,7 +10,7 @@ nav_order: 2
 ###### Master’s level cources
 
 ### HEC Lausanne
-- **Foundations of Econometrics and Machine Learning** (TA), MA — Fall 2024, 2025  
+- **Foundations of Econometrics and Machine Learning** (TA), MAs — Fall 2024, 2025  
   Instructor: Prof. [Rafael Lalive](https://sites.google.com/site/rafaellalive/)
 
 - **Environmental Economics** (TA), MA — Spring 2025  

@@ -32,7 +32,7 @@ latest_posts:
 <div class="about-section"></div>
 Hi! 
 
-I am a third-year PhD student in Economics at the University of Lausanne. My research interests broadly are political economy, conflicts, AI.
+I am a third-year PhD student in Economics at the University of Lausanne. My research interests broadly are political economics, cultiral economics, conflicts, ai.
 <div class="about-section"></div>
 
 
@@ -44,6 +44,6 @@ Prior to my doctoral studies, I earned an MA in Economics from the [New Economic
 <div class="about-section"></div>
 
 
-[Here is my CV](http://fedorboboshin.github.io). 
+[Here is my CV](http://fedorboboshin.github.io/assets/pdf/fedorboboshinCV0126.pdf)
 
 
